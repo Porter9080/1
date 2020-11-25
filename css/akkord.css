@@ -1,0 +1,179 @@
+body {
+  margin: 0;
+}
+
+.logo {
+  width: 150px;
+  height: 100px;
+}
+
+.navbar a {
+  font-family: 'Roboto', sans-serif;
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+
+.nav-item a {
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin: 0 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  text-align: center;
+
+}
+
+.content-main {
+  width: auto;
+  height: ;
+  display: flex;
+  justify-content: space-around;
+}
+
+.content-main .card {
+  margin: 30px 30px;
+  width: 500px;
+}
+
+footer h5 {
+  text-align: center;
+  position: relative;
+
+}
+
+footer {
+  margin-top: 30px;
+}
+
+.price-box {
+  width: auto;
+  height: 100px;
+  margin-bottom: 5px;
+}
+
+.price-box a {
+  text-decoration: none;
+  color: Grey;
+  position: relative;
+  top: 40px;
+  left: 20px;
+  padding: 30px;
+  border-radius: 5%;
+}
+
+.price-box a:hover {
+  text-decoration: none;
+  color: white;
+  background-color: grey;
+  box-shadow: -2px 2px 5px 2px grey;
+  transition: .5s;
+}
+
+.text-auto1 {
+  width: 70%;
+  margin: 30px 0;
+}
+
+.text-auto2 {
+  width: 70%;
+  margin: 10px 0 90px 0;
+}
+
+.text-auto3 {
+  width: 70%;
+}
+
+
+.price-train {
+  margin-top: 30px;
+}
+
+.price-auto1 {
+  margin-top: 30px;
+}
+
+.price-delivery1 {
+  margin-top: 30px;
+}
+
+.price-packaging {
+  margin-top: 30px;
+}
+
+.text-auto3 {
+  margin-top: 40px;
+  width: 70%;
+}
+
+.text-del2 {
+  width: 70%;
+  margin: 50px 0;
+}
+
+.text-storage {
+  width: 70%;
+  margin-top: 30px;
+}
+
+.text-rule-main {
+  margin-top: 30px;
+  width: 70%
+}
+
+.text-rule-main p {
+  font-size: 20px;
+}
+
+.text-rule2 span {
+  font-weight: bold;
+}
+
+.text-rule3 p {
+  font-size: 20px;
+}
+
+.doc-content h2 {
+  margin-left: 35%;
+}
+
+.doc-text1 {
+  width: 70%;
+  font-size: 20px;
+}
+
+.doc-text2 {
+  width: 70%;
+  font-size: 20px;
+}
+
+.doc-text3 {
+  width: 70%;
+  font-size: 20px;
+}
+
+.doc-text4 {
+  padding-left: 15px;
+  font-size: 20px;
+  width: 70%;
+}
+
+.doc-text5 {
+  width: 70%;
+  font-size: 20px;
+}
+
+.doc-text6 {
+  width: 60%;
+  font-size: 20px;
+}
+
+.krsk-text1 {
+  width: 70%;
+  font-size: 20px;
+}
+
+.name {
+  text-decoration: underline;
+}
